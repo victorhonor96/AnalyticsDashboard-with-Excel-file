@@ -21,3 +21,5 @@ plotly-express
 scikit-learn
 seaborn
 pandas-profiling
+streamlit_option_menu
+numerize.numerize
